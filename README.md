@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
  📗 此账号仅用来记录[江南大学](https://baike.baidu.com/item/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6/241242?fr=aladdin)所发生一些大事件。不吹不黑，只为在互联网留下一些记忆。 
 
-🎉 欢迎提Issue.
+🎉 欢迎提Issues.
+
+
+## 如何投稿？
+- 如果想往已投稿的事件中添加信息的话，可以直接去对应的仓库PR或者提Issues.
+- 如果想投稿新的事件，可以直接在本仓库提Issues.
