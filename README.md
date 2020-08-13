@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **jnu-archives/jnu-archives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 📗 此账号仅用来记录[江南大学](https://baike.baidu.com/item/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6/241242?fr=aladdin)所发生一些大事件。不吹不黑，只为在互联网留下一些记忆。 
+
+🎉 欢迎提Issue.
